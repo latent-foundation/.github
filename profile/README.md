@@ -9,7 +9,7 @@
 A work-in-progress notes, wiki, tasks, goals, and project management system.
 Local-first. Markdown-based. Built around depth, memory, and quiet organization.
 
-### unnamed trading system
+### logos
 
 A work-in-progress platform for market data, backtesting, and algorithmic trading research.
 
